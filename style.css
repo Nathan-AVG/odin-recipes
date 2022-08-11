@@ -1,0 +1,30 @@
+* {
+    font-family: "Outfit", "Papyrus";
+    background: rgb(232, 163, 44);
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    color: hsl(36, 68%, 24%);
+}
+
+.text {
+    color: hsl(36, 68%, 24%);
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.button {
+    background-color: rgb(143, 124, 48);
+}
+
+.link {
+    color: aliceblue;
+    background-color: rgb(143, 124, 48);
+}
